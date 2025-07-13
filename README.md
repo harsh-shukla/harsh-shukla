@@ -3,7 +3,7 @@
 
 I am a computational biologist and evolutionary genomicist, having recently completed my Ph.D. in Biological Sciences (Evolutionary genomics) at the University of California, Irvine. My research is driven by a fascination with the evolutionary forces that shape genomes. I specialize in leveraging long-read sequencing data and developing bioinformatics pipelines to explore complex and repetitive regions of the genome.
 
-My doctoral thesis, “Polymorphism in Repetitive Regions: Insights from Long Accurate Sequencing in *Drosophila melanogaster*,” focused on understanding the genetic variation and functional impact of repetitive elements. I am passionate about using code to untangle complex biological questions and am always excited to learn new computational methods.
+My doctoral thesis, [“Polymorphism in Repetitive Regions: Insights from Long Accurate Sequencing in *Drosophila melanogaster*”](https://escholarship.org/uc/item/4p9322jf), focused on understanding the genetic variation and functional impact of repetitive elements. I am passionate about using code to untangle complex biological questions and am always excited to learn new computational methods.
 
 - 🌱 I’m skilled in using **bash**, **Python** and **R** for large-scale genomic data analysis, pipeline development, and data visualization.
 - 💬 Ask me about long-read sequencing, genome assembly, 3D genome architecture or transposable elements.
