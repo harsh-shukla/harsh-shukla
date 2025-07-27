@@ -19,7 +19,7 @@ My expertise lies at the intersection of biology and computer science. I am prof
 My research integrates population genetics, molecular evolution, and functional genomics methods to investigate how genomes evolve. Key areas include:
 
 - De novo Genome Assembly: Assembling high-quality reference genomes using PacBio HiFi and Oxford Nanopore data.
-- 3D Genome Architecture: Analyzing Hi-C and epigentic data (Cut&Tag) data to understand how transposable elements influence chromatin structure and gene regulation.
+- 3D Genome Architecture: Analyzing Hi-C and epigentic data (Cut&Tag) to understand how transposable elements influence chromatin structure and gene regulation.
 - Population Genomics: Studying patterns of genetic variation, inbreeding, and adaptation in natural populations.
 
  [My Google scholar profile](https://scholar.google.com/citations?hl=en&user=ONfT_skAAAAJ&view_op=list_works&sortby=pubdate)
